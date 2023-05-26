@@ -1,5 +1,6 @@
 import React from 'react';
-import '../styles/Header.css';
+import './styles/Header.css';
+import Image from '../components/styles/img/Pinkgirl.PNG';
 
 // By importing the Header.css file, it is added to the DOM whenever this component loads
 
@@ -16,22 +17,22 @@ function Header() {
   return (
     <header>
       <h2>
-        <img src="./flex/Pinkgirl.PNG" alt="me"></img>
-        Maryam's Portfolio
+        <img src={Image} alt="me"></img>
+        <div class="logo"> Maryam's Portfolio</div>
       </h2>
-      <div class="navigation">
+      <div className="navigation">
         <a href="#">Home</a>
         <a href="#">About</a>
         <a href="#">Work</a>
         <a href="#">Commissions</a>
         <a href="#">Contact</a>
       </div>
-      <div class="navbar">
-        <div class="dropdown">
-          <button class="dropbtn">Menu
-            <i class="fa fa-caret-down"></i>
+      <div className="navbar">
+        <div className="dropdown">
+          <button className="dropbtn">Menu
+            <i className="fa fa-caret-down"></i>
           </button>
-          <div class="dropdown-content">
+          <div className="dropdown-content">
             <a href="#">Home</a>
             <a href="#">About</a>
             <a href="#">Work</a>
