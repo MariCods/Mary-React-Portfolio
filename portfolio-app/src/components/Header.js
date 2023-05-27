@@ -1,6 +1,6 @@
 import React from 'react';
 import './styles/Header.css';
-import Image from '../components/styles/img/Pinkgirl.PNG';
+import Image from '../components/styles/img/pro.jpg';
 
 // By importing the Header.css file, it is added to the DOM whenever this component loads
 
@@ -21,9 +21,8 @@ function Header() {
         <div class="logo"> Maryam's Portfolio</div>
       </h2>
       <div className="navigation">
-        <a href="#">Home</a>
-        <a href="#">About</a>
-        <a href="#">Work</a>
+        <a href="/">About</a>
+        <a href="/Works">Work</a>
         <a href="#">Commissions</a>
         <a href="#">Contact</a>
       </div>
