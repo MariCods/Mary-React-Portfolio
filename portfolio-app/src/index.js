@@ -4,17 +4,21 @@ import App from './App';
 import '../src/components/styles/index.css';
 import Header from "./components/Header";
 import Footer from "./components/Footer";
+import Works from "./components/Works";
+import Section from "./components/Section";
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
-function Work() {
+function Home() {
     return (
       <div>
         <Header />
         <Footer />
-        <Work />
+        <Works />
+        <Section />
+        
       </div>
     );
   }
   
-  export default Work;
+  export default Home;
