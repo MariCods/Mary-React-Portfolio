@@ -3,24 +3,32 @@
     display: flex;
     flex-wrap: wrap;
     width: 100%;
-    
-   
+     padding: 5px 100px;
+     margin-top: 200px;
+    justify-content: space-between;
+    /* background-color: #498b5b ; */
   }
  
  
    #content{
-      /* max-width:45vh;  */
-    width: 210px;
-    height: 216px;
+     border-radius: 15px;
+    width: 350px;
+    height: 250px;
     right: 0;
     bottom: 0;
     display: flex;
     padding: 0;
+   
     
   }  
  
   #content:hover{
   transform: scale(1.1);
+  
   }
+
+  /* img{
+    display: none;
+  } */
   
  

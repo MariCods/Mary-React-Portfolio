@@ -1,6 +1,7 @@
 import React from 'react';
 import './styles/Header.css';
 import Image from '../components/styles/img/pro.jpg';
+import {Link} from 'react-router-dom';
 
 // By importing the Header.css file, it is added to the DOM whenever this component loads
 
@@ -21,10 +22,10 @@ function Header() {
         <div class="logo"> Maryam's Portfolio</div>
       </h2>
       <div className="navigation">
-        <a href="/">About</a>
-        <a href="/Works">Work</a>
-        <a href="#">Commissions</a>
-        <a href="#">Contact</a>
+        <Link to="/">About</Link>
+        <Link to="/Works">Projects</Link>
+        <Link to="/Resume">Resume</Link>
+        <Link to="/Contact">Contact</Link>
       </div>
       <div className="navbar">
         <div className="dropdown">

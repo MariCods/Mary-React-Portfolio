@@ -13,11 +13,12 @@ header{
     height: 70px;
     background-size:auto;
     background-repeat: no-repeat;
+    float: left;
   }
   
    header .logo{
     position: relative;
-    color: white;
+    color: black;
     font-size: 15px;
     text-decoration: none;
     text-transform: uppercase;
@@ -26,7 +27,7 @@ header{
   
    }
    header .navigation a{
-    color:white;
+    color:black;
     text-decoration: none;
     font-weight: 500;
     letter-spacing: 1px;
@@ -42,6 +43,7 @@ header{
 
  header .navigation a:hover{
     background: black;
+    color: #f8c0c1;
  }
 
  header .navigation a:not(:last-child){
@@ -90,16 +92,12 @@ header{
         margin: 0;
       }
       
-      /* .navigation:hover, .dropdown:hover .dropbtn {
-        background-color: red;
-      }
-       */
+     
       .dropdown-content {
         display: none;
         position: absolute;
         background-color: #f9f9f9;
         min-width: 50px;
-        /* box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); */
         z-index: 1;
       }
       
