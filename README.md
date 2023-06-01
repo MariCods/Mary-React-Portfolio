@@ -44,7 +44,8 @@ Node, React, Axios, DotENV, HTML, CSS, Javascript
 [GitHub Repo]
 https://github.com/MariCods/Mary-React-Portfolio
 
-
+[Website Link]
+https://maricods.github.io/Mary-React-Portfolio/
 # License
    
 [![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://opensource.org/licenses/MIT)
