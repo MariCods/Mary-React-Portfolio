@@ -15,7 +15,6 @@ function App() {
     <div>
       <Header />
       <Footer />
-      <Section />
      <Routes>
 
       { /* Route components are rendered if the path prop matches the current URL */}
