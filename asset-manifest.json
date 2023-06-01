@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.11a2d6bc.css",
+    "main.js": "/my-app/static/js/main.2a5d3dec.js",
+    "static/media/pexels-moose-photos-1037996.jpg": "/my-app/static/media/pexels-moose-photos-1037996.28659f4f52f92964454a.jpg",
+    "static/media/fashion.html.jpg": "/my-app/static/media/fashion.html.3b23c3dd6ab96fc972a6.jpg",
+    "static/media/Project-2-Nutruplanner.jpg": "/my-app/static/media/Project-2-Nutruplanner.2b83ee9d45c04ee14518.jpg",
+    "static/media/Maryam-Selassie-Resume.jpg": "/my-app/static/media/Maryam-Selassie-Resume.62af7c3d29798d7b0cb9.jpg",
+    "static/media/pro.jpg": "/my-app/static/media/pro.fbe0e41257e8d2021f75.jpg",
+    "static/media/Pinkgirl.PNG": "/my-app/static/media/Pinkgirl.8773f431896a30a1882d.PNG",
+    "index.html": "/my-app/index.html",
+    "main.11a2d6bc.css.map": "/my-app/static/css/main.11a2d6bc.css.map",
+    "main.2a5d3dec.js.map": "/my-app/static/js/main.2a5d3dec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11a2d6bc.css",
+    "static/js/main.2a5d3dec.js"
+  ]
+}
