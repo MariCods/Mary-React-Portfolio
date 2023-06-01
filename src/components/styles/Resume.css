@@ -1,0 +1,18 @@
+.resumePhoto{
+    width: 30%;
+    height: 35%;
+    margin-left: 35%;
+}
+.buttonRes{
+   width: max-content;
+   margin-left: 5px;
+   background-color: #f5b5b3;
+   color: black;
+   padding: 10px;
+   margin-top: 36%;
+}
+
+.buttonRes:hover{
+background-color: #e1d8cf;
+color: black;
+}
