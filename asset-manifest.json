@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Mary-React-Portfolio/static/css/main.850dc64d.css",
+    "main.css": "/Mary-React-Portfolio/static/css/main.90a84fda.css",
     "main.js": "/Mary-React-Portfolio/static/js/main.03652013.js",
     "static/media/pexels-moose-photos-1037996.jpg": "/Mary-React-Portfolio/static/media/pexels-moose-photos-1037996.28659f4f52f92964454a.jpg",
     "static/media/fashion.html.jpg": "/Mary-React-Portfolio/static/media/fashion.html.3b23c3dd6ab96fc972a6.jpg",
@@ -9,11 +9,11 @@
     "static/media/pro.jpg": "/Mary-React-Portfolio/static/media/pro.fbe0e41257e8d2021f75.jpg",
     "static/media/Pinkgirl.PNG": "/Mary-React-Portfolio/static/media/Pinkgirl.8773f431896a30a1882d.PNG",
     "index.html": "/Mary-React-Portfolio/index.html",
-    "main.850dc64d.css.map": "/Mary-React-Portfolio/static/css/main.850dc64d.css.map",
+    "main.90a84fda.css.map": "/Mary-React-Portfolio/static/css/main.90a84fda.css.map",
     "main.03652013.js.map": "/Mary-React-Portfolio/static/js/main.03652013.js.map"
   },
   "entrypoints": [
-    "static/css/main.850dc64d.css",
+    "static/css/main.90a84fda.css",
     "static/js/main.03652013.js"
   ]
 }
