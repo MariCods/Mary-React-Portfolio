@@ -6,7 +6,7 @@ function Resume() {
     return (
         <div>
         <img class="resumePhoto" src={ResumePh} alt="me"></img>
-        <a href = "/img/Maryam-Selassie-Resume.jpg"
+        <a href = {ResumePh}
         Download = "Maryam-Selassie-Resume.jpg">
            <button type = "button"> Download </button>
         </a>
