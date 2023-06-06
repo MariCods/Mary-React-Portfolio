@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Mary-React-Portfolio/Section/static/css/main.d59eb306.css",
-    "main.js": "/Mary-React-Portfolio/Section/static/js/main.995cd198.js",
-    "static/media/pexels-moose-photos-1037996.jpg": "/Mary-React-Portfolio/Section/static/media/pexels-moose-photos-1037996.28659f4f52f92964454a.jpg",
-    "static/media/fashion.html.jpg": "/Mary-React-Portfolio/Section/static/media/fashion.html.3b23c3dd6ab96fc972a6.jpg",
-    "static/media/Project-2-Nutruplanner.jpg": "/Mary-React-Portfolio/Section/static/media/Project-2-Nutruplanner.2b83ee9d45c04ee14518.jpg",
-    "static/media/Maryam-Selassie-Resume.jpg": "/Mary-React-Portfolio/Section/static/media/Maryam-Selassie-Resume.62af7c3d29798d7b0cb9.jpg",
-    "static/media/pro.jpg": "/Mary-React-Portfolio/Section/static/media/pro.fbe0e41257e8d2021f75.jpg",
-    "static/media/Pinkgirl.PNG": "/Mary-React-Portfolio/Section/static/media/Pinkgirl.8773f431896a30a1882d.PNG",
-    "index.html": "/Mary-React-Portfolio/Section/index.html",
-    "main.d59eb306.css.map": "/Mary-React-Portfolio/Section/static/css/main.d59eb306.css.map",
-    "main.995cd198.js.map": "/Mary-React-Portfolio/Section/static/js/main.995cd198.js.map"
+    "main.css": "/Mary-React-Portfolio/static/css/main.90a84fda.css",
+    "main.js": "/Mary-React-Portfolio/static/js/main.8b19f058.js",
+    "static/media/pexels-moose-photos-1037996.jpg": "/Mary-React-Portfolio/static/media/pexels-moose-photos-1037996.28659f4f52f92964454a.jpg",
+    "static/media/fashion.html.jpg": "/Mary-React-Portfolio/static/media/fashion.html.3b23c3dd6ab96fc972a6.jpg",
+    "static/media/Project-2-Nutruplanner.jpg": "/Mary-React-Portfolio/static/media/Project-2-Nutruplanner.2b83ee9d45c04ee14518.jpg",
+    "static/media/Maryam-Selassie-Resume.jpg": "/Mary-React-Portfolio/static/media/Maryam-Selassie-Resume.62af7c3d29798d7b0cb9.jpg",
+    "static/media/pro.jpg": "/Mary-React-Portfolio/static/media/pro.fbe0e41257e8d2021f75.jpg",
+    "static/media/Pinkgirl.PNG": "/Mary-React-Portfolio/static/media/Pinkgirl.8773f431896a30a1882d.PNG",
+    "index.html": "/Mary-React-Portfolio/index.html",
+    "main.90a84fda.css.map": "/Mary-React-Portfolio/static/css/main.90a84fda.css.map",
+    "main.8b19f058.js.map": "/Mary-React-Portfolio/static/js/main.8b19f058.js.map"
   },
   "entrypoints": [
-    "static/css/main.d59eb306.css",
-    "static/js/main.995cd198.js"
+    "static/css/main.90a84fda.css",
+    "static/js/main.8b19f058.js"
   ]
 }
