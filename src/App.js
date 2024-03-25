@@ -16,7 +16,7 @@ function App() {
         <Footer />
         <Routes>
           {/* Route components are rendered if the path prop matches the current URL */}
-          <Route path="/" element={<Section />} exact={true} />
+          <Route path="/Section" element={<Section />} exact={true} />
           <Route path="/Works" element={<Works />} />
           <Route path="/Contact" element={<Contact />} />
           <Route path="/Resume" element={<Resume />} />
